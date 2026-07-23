@@ -1,4 +1,4 @@
-An self-driven python project examining historical FIFA World Cup scoring trends to evaluate why goalscoring records are being broken at an accelerating pace in modern tournaments.
+A self-driven python project examining historical FIFA World Cup scoring trends to evaluate why goalscoring records are being broken at an accelerating pace in modern tournaments.
 
 ## Project Overview
 This project investigates historical World Cup dataset trends to determine whether modern scoring surges are driven by tactical evolution, changes in tournament formats, increased match volume, or shifting offensive efficiencies. 
