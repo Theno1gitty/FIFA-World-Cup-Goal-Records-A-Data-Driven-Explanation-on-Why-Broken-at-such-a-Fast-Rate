@@ -1,12 +1,12 @@
 A self-driven python project examining historical FIFA World Cup scoring trends to evaluate why goalscoring records are being broken at an accelerating pace in modern tournaments.
 
 ## Project Overview
-This project investigates historical World Cup dataset trends to determine whether modern scoring surges are driven by tactical evolution, changes in tournament formats, increased match volume, or shifting offensive efficiencies. 
+This project investigates historical World Cup dataset trends to determine what drives modern scoring surges in football (or soccer). 
 
 ## Key Analytical Insights
-* **Historical Velocity Analysis:** Quantifies scoring rates per game across different eras of the World Cup.
-* **Tactical & Rule Shifts:** Examines correlations between tactical shifts (e.g., modern pressing, modern ball design, extra time rules) and goal output.
-* **Distribution Modeling:** Fits statistical distributions to goal times to identify peak scoring windows during international matches.
+* **Historical Analysis:** Analysing scoring rates per game across different eras of the World Cup.
+* **Tactical & Rule Shifts:** Examines correlations between tactical shifts and goal output.
+* **Distribution Modeling:** Fits statistical distributions to goal times to identify when goals were scored in international matches.
 
 ## Tech Stack
 * **Language:** Python
