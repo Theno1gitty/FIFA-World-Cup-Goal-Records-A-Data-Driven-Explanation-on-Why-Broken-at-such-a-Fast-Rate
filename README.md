@@ -11,7 +11,7 @@ This project investigates historical World Cup dataset trends to determine what 
 ## Tech Stack
 * **Language:** Python
 * **Data Manipulation:** `pandas`, `numpy`
-* **Data Visualization:** `matplotlib`, `seaborn`
+* **Data Visualisation:** `matplotlib`, `seaborn`
 
 ## How to Run
 ```bash
